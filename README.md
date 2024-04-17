@@ -189,7 +189,7 @@ Incomplete Lab Survey
 Lab Survey
 Matching. Select from lists and then submit.
 
-Please tell us about your experience with the lab by indicating your level of agreement with the following statements.
+Please tell me about your experience with the lab by indicating your level of agreement with the following statements.
 I feel confident about the skills I practiced with this lab.
 Completing this lab was a good use of my time.
  
